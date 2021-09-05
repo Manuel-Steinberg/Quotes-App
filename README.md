@@ -1,8 +1,6 @@
 # Quotes-App
 A simple quotes web app.
 
-**Check the demo: https://quotes-app.kreativ-anders.dev**
-
 ## Create your own quotes app
 
 ### Step 1: Use this repository as template
